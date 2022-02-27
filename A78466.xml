@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine considerations to dis-swade men from further gathering of churches in this present juncture of time. Subscribed by diverse Divines of the Assembly, hereafter mentioned. Imprimatur pro Radulpho Smith. Decemb. 23. 1643. John White.</title>
+            <author>Westminster Assembly</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78466</idno>
+            <idno type="STC">Wing C1696A</idno>
+            <idno type="STC">Thomason E79_16</idno>
+            <idno type="STC">ESTC R9478</idno>
+            <idno type="EEBO-CITATION">99873553</idno>
+            <idno type="PROQUEST">99873553</idno>
+            <idno type="VID">126030</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78466)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 126030)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E79[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine considerations to dis-swade men from further gathering of churches in this present juncture of time. Subscribed by diverse Divines of the Assembly, hereafter mentioned. Imprimatur pro Radulpho Smith. Decemb. 23. 1643. John White.</title>
+                  <author>Westminster Assembly</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ralph Smith at the signe of the Bible in Cornhill neare the Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Dec: 28 1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Westminster Assembly (1643-1652) --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:126030:1" rendition="simple:additions"/>
+            <p>CERTAINE CONSIDERATIONS TO DIS-SWADE MEN <hi>FROM</hi> FVRTHER GATHERING OF CHVRCHES in this preſent juncture of Time.</p>
+            <p>Subſcribed by diverſe Divines of the Aſſembly, hereafter mentioned.</p>
+            <p>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur pro Radulpho Smith.</p>
+                        <closer>
+                           <dateline>
+                              <date>Decemb. 23. 1643.</date>
+                           </dateline>
+                           <signed>John White.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <figure>
+               <figDesc>Tudor rose</figDesc>
+            </figure>
+            <figure>
+               <figDesc>Scottish thistle</figDesc>
+            </figure>
+            <figure>
+               <figDesc>French fleur-de-lis</figDesc>
+            </figure>
+            <figure>
+               <figDesc>depiction of Irish harp</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ralph Smith</hi> at the ſigne of the Bible in <hi>Cornhill</hi> neare the <hi>Exchange.</hi> 
+               <add>Dec: 28</add>
+            </p>
+            <pb facs="tcp:126030:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:126030:2"/>
+            <head>CERTAINE CONSIDERATIONS TO Diſſwade men from further gathering of Churches in this preſent juncture of time.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough we do not deeme our ſelves worthy at all to heale any of the bleeding wounds in this diſtreſſed Kingdome, Yet when wee conſider, that beſide the raging of the ſword devouring us every where, our miſeries are increaſed by the ſeve<g ref="char:EOLhyphen"/>rall wayes of Brethren, and that many of thoſe we dearely love in the Lord, are at this time entring themſelves into Church-ſocieties; we could not but in our tender love to the publike
+<pb n="2" facs="tcp:126030:3"/> good, and alſo out of Chriſtian prudence, preſent unto their ſerious thoughts theſe con<g ref="char:EOLhyphen"/>ſiderations.</p>
+            <p>Firſt, That although it be the duty of all the ſervants of Chriſt, to keepe themſelves al<g ref="char:EOLhyphen"/>wayes pure from corruption in Religion, and to indevour in an orderly way, the Reforma<g ref="char:EOLhyphen"/>tion of it; Yet is it an undoubted Maxime, that it belongs to Chriſtian Magiſtrates in an eſpeciall manner to be authorizers of, and Mi<g ref="char:EOLhyphen"/>niſters of the Goſpel to be Leaders in, ſuch Re<g ref="char:EOLhyphen"/>formation.</p>
+            <p>2 That while they are doing this worke, it is the duty of all people to pray for them, en<g ref="char:EOLhyphen"/>courage them, joyne with them, and waite upon them.</p>
+            <p>3. That at this time God hath inclined the hearts of the Honorable Houſes of Parliament to ingage themſelves herein, and they have called an Aſſembly of Divines to aſſiſt them; and required them to make the Word their onely rule, and to endeavor the neareſt con<g ref="char:EOLhyphen"/>formitie to the beſt reformed Churches: at which worke they now are, and through Gods mercy have made ſome comfortable
+<pb n="3" facs="tcp:126030:3"/> beginning according to that rule.</p>
+            <p>4. That now all the power of Satan and Antichriſt is combining by all poſſible meanes to deſtroy the Parliament, and to cauſe this worke of God to ceaſe; Nothing can be more deſtructive to the friends of the cauſe of Reli<g ref="char:EOLhyphen"/>gion, then to be divided amongſt themſelves; a thing which the enemies deſire and endea<g ref="char:EOLhyphen"/>vour to breed and foment by all poſſible meanes.</p>
+            <p>5. That it is not to bee doubted, but the councells of the Aſſembly of Divines, and the care of the Parliament will be, not onely to reforme and ſet up Religion throughout the Nation, but will concurre to preſerve whatever ſhall appeare to be the rights of par<g ref="char:EOLhyphen"/>ticular Congregations, according to the Word; and to beare with ſuch whoſe Conſciences cannot in all things conforme to the publicke Rule, ſo farre as the word of God would have them borne withall.</p>
+            <p>6. That therefore all Miniſters and people be earneſtly intreated to forbeare for a conve<g ref="char:EOLhyphen"/>nient time the joyning of themſelves into Church-ſocieties of any kind whatſoever, un<g ref="char:EOLhyphen"/>till
+<pb n="4" facs="tcp:126030:4"/> they ſee whether the right Rule will not bee commended to them in this orderly way.</p>
+            <p>7. And the rather becauſe that although the hand of God bee heavy upon us in other re<g ref="char:EOLhyphen"/>ſpects, yet through his goodneſſe thoſe yoakes are broken which we hitherto groaned under in regard of corruption in Religion, wee en<g ref="char:EOLhyphen"/>joying more liberty to ſerve God according to his word, then at any time in England ſince the beginning of the Reformation.</p>
+            <p>8. That while men are in expectation that a way according to their conſciences may be approved or allowed of by the Magiſtrates, it is unfit and will bee uncomfortable, be<g ref="char:EOLhyphen"/>fore hand to provoke by ſetting up their owne.</p>
+            <p>9. And laſtly, that if after all their waiting, the right rule ſhould not bee delivered unto them, and they then called to ſuffer (which wee hope will never be) for doing what ſhall appeare to be their dutie, they ſhall have the more peace with God, and their conſciences, while they ſhall witneſſe with them that to prevent occaſions of diviſions they abſtained
+<pb n="5" facs="tcp:126030:4"/> not onely from what was ſinfull, but even from what was by them judged to bee lawfull whilſt unſeaſonable.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>William Twiſſe.</item>
+                     <item>Tho. Goodwin.</item>
+                     <item>John White.</item>
+                     <item>Oliver Bowles.</item>
+                     <item>Stephen Marſhall.</item>
+                     <item>Phillip Nye.</item>
+                     <item>Charles Herle.</item>
+                     <item>Anthony Tuchney.</item>
+                     <item>Jo. Arrowſmith.</item>
+                     <item>William Bridge.</item>
+                     <item>Thomas Young.</item>
+                     <item>William Carter.</item>
+                     <item>Herbert Palmer.</item>
+                     <item>Sidrach Simpſon.</item>
+                     <item>William Greenhill.</item>
+                     <item>Jer. Burroughes.</item>
+                     <item>Richard Heyricke.</item>
+                     <item>Joſeph Carrill.</item>
+                     <item>Thomas Hill.</item>
+                     <item>Thomas Wilſon.</item>
+                     <item>Jer. Whitakers.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
